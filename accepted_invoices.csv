@@ -1,0 +1,11 @@
+id,invoice_id,vendor,currency,total,due_date
+0,INV-1000,Orchid Supplies,USD,6804.87,2026-03-31
+1,INV-1001,Nova Traders,EUR,1267.39,2026-04-01
+3,INV-1003,Maple Hill Foods,GBP,7875.72,2026-04-03
+5,INV-1005,Orchid Supplies,EUR,2667.87,2026-04-05
+6,INV-1006,Nova Traders,INR,2440.53,2026-04-06
+7,INV-1007,Kiro Logistics,GBP,1563.16,2026-04-07
+12,INV-1012,Kiro Logistics,USD,5818.58,2026-04-12
+15,INV-1015,Orchid Supplies,GBP,4524.17,2026-04-15
+18,INV-1018,Maple Hill Foods,INR,6804.87,2026-04-18
+19,INV-1019,Zesta Print,GBP,2392.58,2026-04-19

@@ -1,0 +1,4 @@
+pandas
+matplotlib
+pillow>=10.4,<12
+openai
